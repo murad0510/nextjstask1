@@ -40,3 +40,24 @@ a {
     color-scheme: dark;
   }
 }
+
+h1{
+  color: deepskyblue;
+  text-align: center;
+  margin-top: 2%;
+}
+
+.buttons{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 3%;
+}
+
+.buttons button{
+  background-color: red;
+  width: 30%;
+  margin: auto;
+  margin-top: 1%;
+  font-size: 20px;
+}
